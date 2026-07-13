@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mukbanghaven:item/cooked_ramyun"
+  },
+  "overrides": [
+    { "predicate": { "mukbanghaven:has_egg": 1 }, "model": "mukbanghaven:item/cooked_ramyun_egg_topped" }
+  ]
+}

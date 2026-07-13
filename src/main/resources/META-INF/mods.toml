@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved (Texture/Model - BSL exclusive), Code freely reusable"
+issueTrackerURL=""
+
+[[mods]]
+modId="mukbanghaven"
+version="${file.jarVersion}"
+displayName="Mukbang Haven (BSL Loaded)"
+authors="MATCHANOi (Model/Texture), Oreo (Code)"
+description='''
+Ramyun (รามยอน) - ไอเทม/บล็อกมาม่าเกาหลีแบบหลายขั้นตอนการปรุง
+ต้องใช้คู่กับ Farmer's Delight
+'''
+
+[[dependencies.mukbanghaven]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.mukbanghaven]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.mukbanghaven]]
+    modId="farmersdelight"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="AFTER"
+    side="BOTH"

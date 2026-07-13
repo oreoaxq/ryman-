@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mukbanghaven:item/cooked_ramyun_egg_topped"
+  }
+}

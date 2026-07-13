@@ -1,0 +1,7 @@
+{
+  "block.mukbanghaven.ramyun": "รามยอน",
+  "item.mukbanghaven.uncooked_ramyun": "รามยอนดิบ",
+  "item.mukbanghaven.cooked_ramyun": "รามยอน",
+  "tooltip.mukbanghaven.bites_left": "เหลือคำที่กินได้: %s",
+  "tooltip.mukbanghaven.egg_topped": "เติมไข่แล้ว"
+}

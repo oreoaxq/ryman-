@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "stage=0,egg=false": { "model": "mukbanghaven:block/ramyun_stage0" },
+    "stage=0,egg=true":  { "model": "mukbanghaven:block/ramyun_stage0" },
+    "stage=1,egg=false": { "model": "mukbanghaven:block/ramyun_stage1" },
+    "stage=1,egg=true":  { "model": "mukbanghaven:block/ramyun_stage1" },
+    "stage=2,egg=false": { "model": "mukbanghaven:block/ramyun_stage2" },
+    "stage=2,egg=true":  { "model": "mukbanghaven:block/ramyun_stage2" },
+    "stage=3,egg=false": { "model": "mukbanghaven:block/ramyun_stage3" },
+    "stage=3,egg=true":  { "model": "mukbanghaven:block/ramyun_stage3_egg" },
+    "stage=4,egg=false": { "model": "mukbanghaven:block/ramyun_stage4" },
+    "stage=4,egg=true":  { "model": "mukbanghaven:block/ramyun_stage4" },
+    "stage=5,egg=false": { "model": "mukbanghaven:block/ramyun_stage5" },
+    "stage=5,egg=true":  { "model": "mukbanghaven:block/ramyun_stage5" }
+  }
+}
