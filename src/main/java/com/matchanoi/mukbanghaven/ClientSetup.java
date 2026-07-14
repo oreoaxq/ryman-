@@ -4,7 +4,7 @@ import com.matchanoi.mukbanghaven.registry.ModItems;
 import com.matchanoi.mukbanghaven.util.RamyunConstants;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraftforge.api.distmarker.Dist;
-import net.minecraftforge.client.event.FMLClientSetupEvent;
+import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.common.Mod;
 
 /**
